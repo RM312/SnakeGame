@@ -1,4 +1,3 @@
-# food.py
 import random
 from constants import SCREEN_WIDTH, SCREEN_HEIGHT, GRID_SIZE
 
