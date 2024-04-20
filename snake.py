@@ -1,4 +1,3 @@
-# snake.py
 from constants import GRID_SIZE
 
 class Snake:
