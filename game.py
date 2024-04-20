@@ -1,4 +1,3 @@
-# game.py
 import tkinter as tk
 from snake import Snake
 from food import Food
